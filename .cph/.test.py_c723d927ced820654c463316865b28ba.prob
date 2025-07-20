@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/workspaces/dokyeon/test.py","tests":[{"id":1752987161241,"input":"4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/dokyeon/test.py","group":"local","local":true}
